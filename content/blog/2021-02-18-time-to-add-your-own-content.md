@@ -4,6 +4,8 @@ category: marketing
 title: Time to add your own content
 description: Remove all of the .md-files in the /content folder and go at it!
 cover: https://www.fillmurray.com/g/800/400
+gallery:
+  - https://randomwordgenerator.com/img/picture-generator/57e2d146425aa414f1dc8460962e33791c3ad6e04e50744076287ad3904ecd_640.jpg
 ---
 
 ## Sit liquentibus sinu verbis et spatiarer laedar
