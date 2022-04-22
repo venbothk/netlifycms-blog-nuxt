@@ -1,6 +1,6 @@
 <template>
   <main>
-    <section class="page-banner-area rel z-1 pt-220 pb-145 rpb-125 bg-dark-blue text-white">
+    <section class="page-banner-area rel z-1 pt-220 pb-145 rpb-125 bg-dark-blue text-white" style="background: #0a4875">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-6">
@@ -14,6 +14,13 @@
           </div>
         </div>
       </div>
+      <div class="hero-right-image wow fadeInLeft delay-0-2s" style="margin-top: 100px" data-wow-duration="2s">
+        <img src="blog.png" alt="Hero" />
+      </div>
+      <!-- <div class="hero-right-circles wow customSlideInRight"></div> -->
+      <div class="hero-dot-one"></div>
+      <div class="hero-dot-two"></div>
+      <div class="hero-dot-three"></div>
     </section>
 
     <!-- <section class="mt-8">

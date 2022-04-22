@@ -22,8 +22,8 @@
           <div class="col-lg-12">
             <div class="single-blog-post blog-details-content pr-xl-5">
               <div class="post-content">
-                <div class="post-categories" hidden>
-                  <a href="#">Marketing</a>
+                <div class="post-categories" v-if="post.category">
+                  <a href="#">{{ post.category }}</a>
                 </div>
                 <ul class="post-meta">
                   <!-- <li>

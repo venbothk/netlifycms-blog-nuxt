@@ -33,7 +33,9 @@
     <div class="preloader"></div>
 
     <Header />
+
     <nuxt />
+
     <!--====== Jquery ======-->
     <Script src="assets/js/jquery-3.6.0.min.js"></Script>
     <!--====== Bootstrap ======-->
@@ -56,3 +58,5 @@
     <Script src="assets/js/script.js"></Script>
   </div>
 </template>
+
+<style></style>

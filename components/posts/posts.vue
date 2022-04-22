@@ -15,9 +15,9 @@
 
         <template v-else>
           <div class="popular-posts-item">
-            <div class="popular-posts-thumbnail" hidden>
+            <div class="popular-posts-thumbnail">
               <a>
-                <img src="assets/images/blog/latest-post-thumbnail-3.jpg" alt="" />
+                <img v-if="post.cover" style="width: 100%; height: 100%; object-fit: cover" :src="post.cover" />
               </a>
             </div>
             <div class="popular-posts-item-content">

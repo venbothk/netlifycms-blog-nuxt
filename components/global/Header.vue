@@ -34,11 +34,11 @@
                 </div>
 
                 <div class="navbar-collapse collapse clearfix">
-                  <ul class="navigation onepage clearfix">
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#pricing">pricing</a></li>
-                    <li><a href="#blog">blog</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                  <ul class="navigation clearfix">
+                    <li><a href="https://venbot.tech#about">About</a></li>
+                    <li><a href="https://venbot.tech#pricing">pricing</a></li>
+                    <li><a href="/">blog</a></li>
+                    <li><a href="https://venbot.tech#contact">Contact</a></li>
                   </ul>
                 </div>
               </nav>
