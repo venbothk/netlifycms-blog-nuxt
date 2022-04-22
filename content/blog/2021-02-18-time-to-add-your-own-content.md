@@ -1,7 +1,9 @@
 ---
 createdAt: 2021-02-18
+category: marketing
 title: Time to add your own content
 description: Remove all of the .md-files in the /content folder and go at it!
+cover: https://www.fillmurray.com/g/800/400
 ---
 
 ## Sit liquentibus sinu verbis et spatiarer laedar
